@@ -26,7 +26,7 @@
 
 ## 📈 Currently Working On
 
-- 🔍 Mastering **SQL for Data Science**
+- 🔍 Mastering **SQL , **ML  for Data Science**
 - 🐍 Building Python foundations
 - 📊 Exploring Data Analysis & Visualization
 
